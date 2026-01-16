@@ -1,6 +1,9 @@
+
 # 🛡️ NeuroGuard: AI-Powered Network Intrusion Detection System (NIDS)
 
 **NeuroGuard** is a robust, real-time Network Intrusion Detection System designed to secure local networks against cyber threats. By combining **Machine Learning (XGBoost)** with **Heuristic Traffic Analysis**, it detects both known attack patterns and high-velocity Denial of Service (DoS) floods with professional-grade precision.
+
+![Project Screenshot](Images/demo.jpg)
 
 ---
 
